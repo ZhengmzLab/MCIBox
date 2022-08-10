@@ -3,12 +3,12 @@ Current Version 1.0. Recent update was on 202206 by Simon Zhongyuan Tian.
 
 ***
 
-### [A. MCI-view](https://github.com/tianzhongyuan/MCI-view)
+### A. MCI-view
 
 MCI-view: a multiplex clustering algorithms based browser for single-molecule chromatin interaction visualization.
 
 
-### [B. MCI-2kde](https://github.com/tianzhongyuan/MCI-view)
+### B. MCI-2kde
 MCI-2kde: a two-dimensional kernel density estimation algorithm based unsupervised machine learning method for micro-domains definition automatically.
 
 ***
