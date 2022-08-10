@@ -1,10 +1,8 @@
-*** 
-
-
-
-
 # MCIBox
 Current Version 1.0. Recent update was on 202206 by Simon Zhongyuan Tian.
+
+***
+
 ### [A. MCI-view](https://github.com/tianzhongyuan/MCI-view)
 
 MCI-view: a multiplex clustering algorithms based browser for single-molecule chromatin interaction visualization.
