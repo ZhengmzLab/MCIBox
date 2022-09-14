@@ -1,4 +1,7 @@
 # MCIBox
+
+Simon Zhongyuan Tian, Guoliang Li, Duo Ning, Kai Jing, Yewen Xu, Yang Yang, Melissa J Fullwood, Pengfei Yin, Guangyu Huang, Dariusz Plewczynski, Jixian Zhai, Ziwei Dai, Wei Chen, Meizhen Zheng, MCIBox: a toolkit for single-molecule multi-way chromatin interaction visualization and micro-domains identification, Briefings in Bioinformatics, 2022;, bbac380, https://doi.org/10.1093/bib/bbac380
+
 Current Version 1.0. Recent update was on 202206 by Simon Zhongyuan Tian.
 
 ***
